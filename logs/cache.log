@@ -1,0 +1,36 @@
+2022-11-06 11:56:12,202 : INFO : logger : Train logreg model ...
+2022-11-06 11:56:19,256 : INFO : logger : Best params are : {'clf__C': 5, 'clf__penalty': 'l2', 'clf__solver': 'liblinear'}
+2022-11-06 11:56:19,260 : INFO : logger : Best training accuracy: 0.829
+2022-11-06 11:56:19,272 : INFO : logger : Test set accuracy score for best params: 0.911 
+2022-11-06 11:58:46,358 : INFO : logger : Train logreg model ...
+2022-11-06 11:58:55,464 : INFO : logger : Best params are : {'clf__C': 5, 'clf__penalty': 'l2', 'clf__solver': 'liblinear'}
+2022-11-06 11:58:55,467 : INFO : logger : Best training accuracy: 0.829
+2022-11-06 11:58:55,476 : INFO : logger : Test set accuracy score for best params: 0.911 
+2022-11-06 11:59:18,727 : INFO : logger : Train logreg model ...
+2022-11-06 11:59:20,642 : INFO : logger : Best params are : {'clf__C': 5, 'clf__penalty': 'l2', 'clf__solver': 'liblinear'}
+2022-11-06 11:59:20,646 : INFO : logger : Best training accuracy: 0.829
+2022-11-06 11:59:20,654 : INFO : logger : Test set accuracy score for best params: 0.911 
+2022-11-06 12:01:26,212 : INFO : logger : Train svm model ...
+2022-11-06 12:01:31,916 : INFO : logger : Best params are : {'clf__C': 9, 'clf__kernel': 'rbf'}
+2022-11-06 12:01:31,918 : INFO : logger : Best training accuracy: 0.825
+2022-11-06 12:01:31,928 : INFO : logger : Test set accuracy score for best params: 0.911 
+2022-11-06 12:16:04,023 : ERROR : logger : Unknown classifier: d ...
+2022-11-06 12:16:59,094 : INFO : logger : Train logreg model ...
+2022-11-06 12:17:07,111 : INFO : logger : Best params are : {'clf__C': 5, 'clf__penalty': 'l2', 'clf__solver': 'liblinear'}
+2022-11-06 12:17:07,114 : INFO : logger : Best training accuracy: 0.829
+2022-11-06 12:17:07,123 : INFO : logger : Test set accuracy score for best params: 0.911 
+2022-11-06 12:18:06,330 : INFO : logger : Обученная модель сохранена ../model/clf_pipeline.pickle
+2022-11-06 12:18:11,479 : INFO : logger : Обученная модель сохранена: ../model/clf_pipeline.pickle
+2022-11-06 12:18:15,847 : INFO : logger : Обученная модель сохранена: ../model/clf_pipeline.pickle
+2022-11-06 12:18:20,121 : INFO : logger : Обученная модель сохранена: ../model/clf_pipeline.pickle
+2022-11-06 12:18:23,877 : INFO : logger : Обученная модель сохранена: ../model/clf_pipeline.pickle
+2022-11-06 12:30:15,985 : INFO : logger : Train logreg model ...
+2022-11-06 12:30:23,701 : INFO : logger : Best params are : {'clf__C': 5, 'clf__penalty': 'l2', 'clf__solver': 'liblinear'}
+2022-11-06 12:30:23,706 : INFO : logger : Best training accuracy: 0.829
+2022-11-06 12:30:23,718 : INFO : logger : Test set accuracy score for best params: 0.911 
+2022-11-06 12:30:34,469 : INFO : logger : Обученная модель сохранена: ../model/clf_pipeline.pickle
+2022-11-06 12:32:17,485 : INFO : logger : Train logreg model ...
+2022-11-06 12:32:24,913 : INFO : logger : Best params are : {'clf__C': 5, 'clf__penalty': 'l2', 'clf__solver': 'liblinear'}
+2022-11-06 12:32:24,915 : INFO : logger : Best training accuracy: 0.829
+2022-11-06 12:32:24,923 : INFO : logger : Test set accuracy score for best params: 0.911 
+2022-11-06 12:32:25,051 : INFO : logger : Обученная модель сохранена: ../model/clf_pipeline.pickle
